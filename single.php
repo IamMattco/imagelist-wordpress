@@ -11,7 +11,7 @@
                 </div>
                 <?php endwhile; ?>
             <?php endif; ?>
-             <!-- KOMENTARZE -->
+            <!-- FACEBOOK OR DISQUS COMMENTS HERE -->
         </div>
     </div>
 </div>

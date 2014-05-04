@@ -14,6 +14,6 @@
 <body>
 
 <nav>
-    <a href="http://localhost/wp/" class="logo">IMAGELIST WP</a>
+    <a href="<?php echo get_site_url(); ?>" class="logo">IMAGELIST WP</a>
     <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
 </nav>

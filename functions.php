@@ -8,8 +8,6 @@ if(!defined('IMAGELIST_THEME_URL')) {
 	define('IMAGELIST_THEME_URL', WP_CONTENT_URL.'/themes/'.get_template().'/');
 }
 
-//require_once IMAGELIST_THEME_DIR.'libs/utils.php';
-
 // THUMBNAILS
 
 if ( function_exists( 'add_theme_support' ) ) { 
