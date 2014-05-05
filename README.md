@@ -2,7 +2,6 @@ IMAGELIST Free WordPress theme
 ===================
 
 TODO:
-- responsive design
 - menu category
 - image tools
 
